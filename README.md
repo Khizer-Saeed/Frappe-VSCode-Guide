@@ -38,7 +38,7 @@ sudo service ssh reload
 ```
 2. Got to **sshd_config file**
 ```bash
-    sudo nano /etc/ssh/sshd_config
+sudo nano /etc/ssh/sshd_config
 ```
 3. Either Uncomment (Remove # tags) or Write the following options
     - **PubkeyAuthentication yes**
