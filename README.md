@@ -1,6 +1,7 @@
 # Guide to connect your WSL With VS Code
 **Note the following guide is for connecting your WSL frappe with Visual Studio Code in windows**
 ## Generate SSH Key in Windows
+- Run the following command in CMD as administrator
 ```bash
 ssh-keygen
 ```
